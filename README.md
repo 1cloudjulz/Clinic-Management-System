@@ -1,3 +1,3 @@
-# Clinic-Management-System
+# Color Game System
 
 ## Feature List
